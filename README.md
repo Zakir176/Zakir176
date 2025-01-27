@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakir176" alt="zakir176" /></a> </p>
 
-- 🌱 I’m currently learning **C++, vuw and react native**
+- 🌱 I’m currently learning **C++, vue and react native**
 
 - 📫 How to reach me **Zakirhusseinmotala76@gmail.com**
 
