@@ -1,24 +1,63 @@
-<h1 align="center">Hi 👋, I'm Zakir Motala</h1>
-<h3 align="center">A passionate full-stack developer from Zambia</h3>
+<h1 align="center">👋 Hey, I'm Zakir Motala</h1>
+<h3 align="center">🚀 Full‑Stack & FinTech Developer | Vue.js · .NET MAUI · C++</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zakir176&label=Profile%20views&color=0e75b6&style=flat" alt="zakir176" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zakir176" alt="zakir176" />
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zakir176&label=Profile+views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-### 📫 Contact Me
-📧 **Zakirhusseinmotala76@gmail.com**
+### 🔍 About Me
+
+- 🔭 Currently building: **KondaApp** and a **Full-Stack Recipe App** using .NET MAUI + C#  
+- 🌱 Diving deeper into: **.NET MAUI**, **blockchain**, and **Firebase**  
+- 💬 Ask me about: Vue, MAUI, C++, fintech dev, or AI-powered tools  
+- 🧠 Also scripting with **MQL5** for automated forex strategies  
+- 🎨 Prototyping designs with **Figma**  
+- 📧 **zakirhusseinmotala76@gmail.com**
 
 ---
 
-### 🤝 Connect with Me:
+### 🎯 Hobbies & Interests
+
+- 🧠 Studying human psychology, social dynamics & strategic thinking  
+- 📈 Forex trading and developing algorithmic bots (MQL5)  
+- 🎮 Anime marathons, story-based games, and tactical gaming  
+- 🎧 Music while coding (lo-fi, trap, ambient vibes, amapiano, EDM)  
+- 🛠️ Building tools that automate life (personal assistants, dashboards, trading bots)  
+- ✍️ Writing about tech concepts and self-mastery  
+
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,csharp,dotnet,vue,js,html,css,git,firebase,mysql,php,figma" />
+</p>
+
+> 💹 Fluent in **MQL5**, **SQL**, and rapid mobile UI prototyping with **Figma**
+
+---
+
+### 📚 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🔗 **KondaApp** | A .NET MAUI-powered dating app with swipe logic and dynamic UI | .NET MAUI · C# · XAML |
+| 🍽 **Recipe App** | A full-stack mobile app to manage and save personal recipes | .NET MAUI · C# · Firebase backend |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakir176&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakir176&theme=radical" alt="Streak Stats"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
   <a href="https://linkedin.com/in/zakir motala" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakir motala" height="30" width="40" />
@@ -32,62 +71,4 @@
   <a href="https://discord.gg/ydj76qdq" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
   </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <!-- .NET MAUI -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/maui/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Maui_Icon.png" alt=".NET MAUI" width="40" height="40" />
-  </a>
-  <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
-  </a>
-  <!-- C++ -->
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a>
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakir176&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakir176&show_icons=true&locale=en" alt="Zakir's GitHub Stats" />
 </p>
