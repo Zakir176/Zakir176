@@ -15,6 +15,7 @@
 - 🧠 Also scripting with **MQL5** for automated forex strategies  
 - 🎨 Prototyping designs with **Figma**  
 - 📧 **zakirhusseinmotala76@gmail.com**
+- 🔗 **https://zakir176.github.io/PortfolioWebsite/index3.html**
 
 ---
 
