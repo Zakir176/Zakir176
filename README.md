@@ -52,9 +52,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakir176&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakir176&theme=radical" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakir176&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&bg_color=2A2A2A&hide_border=true&access_token=YOUR_GITHUB_TOKEN" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakir176&theme=radical&access_token=YOUR_GITHUB_TOKEN" alt="Streak Stats"/>
 </p>
+
 
 ---
 
