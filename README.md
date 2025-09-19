@@ -32,7 +32,7 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dotnet,vue,js,html,css,git,cs,mysql,php,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,dotnet,vue,js,html,css,git,cs,mysql,php,figma,tailwind,vuetify" />
 </p>
 
 
