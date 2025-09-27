@@ -14,8 +14,8 @@
 - 💬 Ask me about: Vue, MAUI, C++, fintech dev, or AI-powered tools  
 - 🧠 Also scripting with **MQL5** for automated forex strategies  
 - 🎨 Prototyping designs with **Figma**  
-- 📧 **zakirhusseinmotala76@gmail.com**
-- 🔗 **https://zakir176.github.io/PortfolioWebsite/index3.html**
+- 📧 **zakirhusseinmotala76@gmail.com**  
+- 🔗 [Portfolio Website](https://zakir176.github.io/PortfolioWebsite/index3.html)
 
 ---
 
@@ -28,11 +28,20 @@
 - 🛠️ Building tools that automate life (personal assistants, dashboards, trading bots)  
 - ✍️ Writing about tech concepts and self-mastery  
 
+---
 
 ### 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,dotnet,vue,js,html,css,git,cs,mysql,php,figma,tailwind,vuetify,postman,fastapi,vscode" />
+</p>
+
+<p align="center">
+  <!-- XAMPP -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" title="XAMPP" alt="XAMPP" width="40" height="40" />
+
+  <!-- Cursor Editor -->
+  <img src="https://avatars.githubusercontent.com/u/127398300?s=200&v=4" title="Cursor Editor" alt="Cursor Editor" width="40" height="40" />
 </p>
 
 > 💹 Fluent in **MQL5**, **SQL**, and rapid mobile UI prototyping with **Figma**
@@ -49,40 +58,31 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zakir176&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zakir176&theme=radical" alt="Language Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakir176&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakir176&theme=github-dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakir176&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakir176E&theme=github-dark&hide_border=true" alt="GitHub Streak" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir176&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakir176&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
-
-
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/zakir motala" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakir motala" height="30" width="40" />
+  <a href="https://linkedin.com/in/zakir-motala" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/zakir hussein" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakir hussein" height="30" width="40" />
+  <a href="https://facebook.com/zakir.hussein" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/must_be_hussein" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="must_be_hussein" height="30" width="40" />
+  <a href="https://instagram.com/must_be_hussein" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/ydj76qdq" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
+  <a href="https://discord.gg/ydj76qdq" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
