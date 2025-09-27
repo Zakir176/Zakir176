@@ -38,11 +38,12 @@
 
 <p align="center">
   <!-- XAMPP -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" title="XAMPP" alt="XAMPP" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" title="XAMPP" alt="XAMPP" width="40" height="40" />
 
-  <!-- Cursor Editor -->
-  <img src="https://avatars.githubusercontent.com/u/127398300?s=200&v=4" title="Cursor Editor" alt="Cursor Editor" width="40" height="40" />
+  <!-- Cursor (custom uploaded PNG since no official icon exists in devicon/skillicons) -->
+  <img src="https://i.imgur.com/vV1Yx7C.png" title="Cursor Editor" alt="Cursor Editor" width="40" height="40" />
 </p>
+
 
 > 💹 Fluent in **MQL5**, **SQL**, and rapid mobile UI prototyping with **Figma**
 
