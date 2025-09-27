@@ -54,20 +54,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zakir176&theme=radical" alt="Language Stats"/>
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dotnet,vue,js,html,css,git,cs,mysql,php,figma,tailwind,vuetify,postman,fastapi,vscode" />
-</p>
 
-<!-- Manually add icons for tools not supported by skillicons.dev -->
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
-
-  <!-- XAMPP icon (from Wikimedia or alternative source) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" title="XAMPP" alt="XAMPP" width="40" height="40"/>
-
-  <!-- Cursor (AI code editor) icon (custom hosted image or placeholder) -->
-  <img src="https://avatars.githubusercontent.com/u/127398300?s=200&v=4" title="Cursor" alt="Cursor Editor" width="40" height="40"/>
-</p>
 
 
 
