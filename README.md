@@ -32,9 +32,8 @@
 ### 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dotnet,vue,js,html,css,git,cs,mysql,php,figma,tailwind,vuetify,postman,fastapi" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,dotnet,vue,js,html,css,git,cs,mysql,php,figma,tailwind,vuetify,postman,fastapi,vscode" />
 </p>
-
 
 > 💹 Fluent in **MQL5**, **SQL**, and rapid mobile UI prototyping with **Figma**
 
