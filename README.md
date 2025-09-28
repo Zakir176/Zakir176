@@ -9,7 +9,7 @@
 
 ### 🔍 About Me
 
-- 🔭 Currently building: **Aura Vibe** (collaborative music-sharing platform) and a **Full-Stack Recipe App** using .NET MAUI + C#  
+- 🔭 Currently building: **Aura Vibe** (collaborative music-sharing platform)   
 - 🌱 Diving deeper into: **.NET MAUI**, **real-time APIs**, and **Firebase**  
 - 💬 Ask me about: Vue, MAUI, C++, fintech dev, or AI-powered tools  
 - 🧠 Also scripting with **MQL5** for automated forex strategies  
