@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Zakir Motala</h1>
+<h1 align="center">👋 Hey, I'm Zakir husseing Motala</h1>
 <h3 align="center">🚀 Full‑Stack & FinTech Developer | Vue.js · .NET MAUI · C++</h3>
 
 <p align="center">
