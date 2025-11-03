@@ -19,7 +19,7 @@ I care about **clean UI**, **fast APIs**, and using code to make life smoother.
 ### ⚡ Current Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,dotnet,vue,js,html,css,tailwind,vuetify,mysql,php,fastapi,figma,postman,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=react,cpp,cs,python,dotnet,vue,js,html,css,tailwind,vuetify,mysql,php,fastapi,figma,postman,vscode,git" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ I care about **clean UI**, **fast APIs**, and using code to make life smoother.
 ### 💡 Other Stuff I’ve Built
 
 | Project       | Description                                                      | Stack                         |
-|--------------|------------------------------------------------------------------|-------------------------------|
+|----------------|------------------------------------------------------------------|-------------------------------|
 | **Tasha**     | 14 romantic web projects connected by a custom Love Portal ❤️    | HTML · CSS · JS               |
 | **Recipe App**| Full-stack mobile recipe manager                                 | .NET MAUI · Firebase          |
 | **MT5 Bots**  | Algorithmic forex strategies for trend & breakout detection      | MQL5 · Python (for data sync) |
