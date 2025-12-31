@@ -19,7 +19,7 @@ I care about **clean UI**, **fast APIs**, and using code to make life smoother.
 ### ⚡ Current Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,cpp,cs,python,dotnet,vue,js,html,css,tailwind,vuetify,mysql,php,fastapi,figma,postman,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=react,cpp,cs,python,dotnet,vue,js,ts,html,css,tailwind,vuetify,mysql,php,fastapi,figma,postman,vscode,git" />
 </p>
 
 <p align="center">
