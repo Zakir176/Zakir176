@@ -1,5 +1,8 @@
 <h1 align="center">👋 Yo, I’m Zakir Hussein Motala</h1>
-<h3 align="center">🧠 Full-Stack Developer | FinTech Enthusiast | Building things that vibe</h3>
+<h3 align="center">🧠 Full-Stack Developer | Vue.js · .NET · AI Tools</h3>
+<h3 align="center"> Building scalable systems (FinTech, Media, Automation)</h3>
+<h3 align="center"> Speaker · Intern at Uniplexity AI</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zakir176&label=Profile+views&color=0e75b6&style=flat" alt="Profile views"/>
