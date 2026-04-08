@@ -99,4 +99,4 @@ I care about **clean UI**, **fast APIs**, and using code to make life smoother.
 </p>
 
 📫 Email: **zakirhusseinmotala76@gmail.com**  
-🌐 Portfolio: [zakir176.github.io/PortfolioWebsite](https://zakir176.github.io/PortfolioWebsite/index3.html)
+🌐 Portfolio: [zakir176.github.io/PortfolioWebsite](https://zakir176.github.io/PortfolioWebsite/index.html)
