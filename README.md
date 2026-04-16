@@ -15,7 +15,7 @@
 I design and build real-world systems — from fintech platforms to media tools — with a focus on scalability, clean architecture, and practical impact.  
 My approach is rooted in **systems thinking** — moving beyond simple interfaces to design data-driven pipelines, secure backend architectures, and high-performance frontend modules.
 
-Right now? I’m interning at **Uniplexity AI** building production-scale ERP modules, and actively contributing to **Vue.js core**.
+Right now? I recently completed an internship at **Codeveda Technologies** focusing on CRUD applications and Vue.js UI design. Previously, I interned at **Uniplexity AI** building production-scale ERP modules. I am also actively contributing to **Vue.js core**.
 
 ---
 
@@ -43,6 +43,7 @@ Right now? I’m interning at **Uniplexity AI** building production-scale ERP mo
 
 | Project | Description | Role/Stack |
 |---------|-------------|------------|
+| **[AlphaJournal](https://github.com/Zakir176/AlphaJournal)** | Modern journal reflecting best practices in CRUD operations and Vue.js UI design. | Vue.js · UI/UX |
 | **[StreamOS](https://github.com/Zakir176/StreamOS)** | Private media streaming OS with automated indexing pipeline & multi-profile isolation. | System Architecture |
 | **[Pickr](https://github.com/Zakir176/Pickr)** | Mobile-first smart curation tool detecting quality issues & duplicates natively. | Mobile/AI |
 | **[Aura Vibe](https://github.com/Zakir176/AURA-VIBE)** | Collaborative DJ platform with real-time syncing and WebSockets. | Node.js · Vue · WebSockets |
