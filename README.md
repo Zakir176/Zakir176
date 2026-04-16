@@ -1,4 +1,4 @@
-<h1 align="center">👋 Yo, I’m Zakir Motala</h1>
+<h1 align="center">👋 I’m Zakir Motala</h1>
 <h3 align="center">🧠 Systems Architect & Full-Stack Developer</h3>
 <h3 align="center"> Building scalable systems (FinTech, Media, Automation)</h3>
 <h3 align="center"> Speaker · Intern at Uniplexity AI · Open Source Contributor</h3>
@@ -15,7 +15,7 @@
 I design and build real-world systems — from fintech platforms to media tools — with a focus on scalability, clean architecture, and practical impact.  
 My approach is rooted in **systems thinking** — moving beyond simple interfaces to design data-driven pipelines, secure backend architectures, and high-performance frontend modules.
 
-Right now? I recently completed an internship at **Codeveda Technologies** focusing on CRUD applications and Vue.js UI design. Previously, I interned at **Uniplexity AI** building production-scale ERP modules. I am also actively contributing to **Vue.js core**.
+Right now? I am interning at **Uniplexity AI** building production-scale ERP modules, following a successful tenure at **Codeveda Technologies** focused on Vue.js UI design and CRUD orchestration. I am also an active contributor to **Vue.js core**.
 
 ---
 
@@ -46,7 +46,7 @@ Right now? I recently completed an internship at **Codeveda Technologies** focus
 | **[AlphaJournal](https://github.com/Zakir176/AlphaJournal)** | Modern journal reflecting best practices in CRUD operations and Vue.js UI design. | Vue.js · UI/UX |
 | **[StreamOS](https://github.com/Zakir176/StreamOS)** | Private media streaming OS with automated indexing pipeline & multi-profile isolation. | System Architecture |
 | **[Pickr](https://github.com/Zakir176/Pickr)** | Mobile-first smart curation tool detecting quality issues & duplicates natively. | Mobile/AI |
-| **[Aura Vibe](https://github.com/Zakir176/AURA-VIBE)** | Collaborative DJ platform with real-time syncing and WebSockets. | Node.js · Vue · WebSockets |
+| **[Aura Vibe](https://github.com/Zakir176/AURA-VIBE)** | Collaborative DJ platform with real-time syncing and WebSockets. | [GitHub](https://github.com/Zakir176/AURA-VIBE) • [Live Demo](https://aura-vibe.vercel.app/) |
 | **[UB App](http://uniplexitybusiness.com/)** | AI-Powered POS designed for ZRA compliance with smart invoice support. | Full-Stack |
 | **[BAS](https://github.com/Zakir176/BAS-Web)** | Barcode Attendance System replacing paper logs with synchronized real-time dashboards. | Frontend / Backend |
 | **[Apartex](https://github.com/Zakir176/Apartex)** | Full-stack booking platform for property listings mapping and real-time availability. | Full-Stack |
